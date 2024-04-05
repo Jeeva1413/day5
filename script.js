@@ -13,7 +13,7 @@ var  resume={
   "INTEREST AND HOBBIES" :["Reading Books","Hearing Music"],
   "PERSONAL STRENGTH":[" Confidence", "can handle multiple task","self motivated"],
   "Languages":["tamil"," english","Telugu"],
-  "skills":["teamponding","leadership","communication"],
+  "skills":["teamponding","communication"],
 
 }
 
